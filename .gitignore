@@ -1,0 +1,12 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+*.pth
+*.h5
+*.pt
+.DS_Store
+.env
+*.egg-info/
+*.log

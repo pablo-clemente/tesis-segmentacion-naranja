@@ -1,0 +1,7 @@
+Void
+Arbol
+Plaga
+Suelo_Claro
+Suelo_Oscuro
+Vegetacion
+White
